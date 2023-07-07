@@ -1,6 +1,6 @@
 ### Hi there I'm Ashish👋
 
-# 🙆‍♂️ About Me:
+# 🙋‍♂️ About Me:
 🐨 Just another developer in the world<br>😏 Love Zero-config<br>✨ Simple is beautiful<br>🦥 Write less, do more
 
 
